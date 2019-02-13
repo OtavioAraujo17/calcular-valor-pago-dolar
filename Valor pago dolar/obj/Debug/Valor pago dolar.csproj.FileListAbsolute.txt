@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\bin\Debug\Valor pago dolar.exe.config
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\bin\Debug\Valor pago dolar.exe
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\bin\Debug\Valor pago dolar.pdb
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\obj\Debug\Valor pago dolar.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\obj\Debug\Valor pago dolar.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\obj\Debug\Valor pago dolar.exe
+C:\Users\Otavio\Desktop\curso 2\Valor pago dolar\Valor pago dolar\obj\Debug\Valor pago dolar.pdb
